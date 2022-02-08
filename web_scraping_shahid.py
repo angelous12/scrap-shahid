@@ -26,6 +26,10 @@ print('\n* Copyright of Angelous in 2021 *')
 print('\n* Yemen shield organization     *')
 print('\n##########################################')
 print('\n want you serach pleases use the link : https://m.shahed4u.dev/?s=')
+print('\n or want search manually please use the link below : https://shahed4u.pro/category/مسلسلات-اجنبي-1/')
+###################################################
+print('\n')
+
 ###################################################
 Link_Website = input('Enter link website : ')
 r = requests.session()
